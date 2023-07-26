@@ -4,7 +4,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <div>
   <a href="https://www.linkedin.com/in/marcioalbertol/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>   
 </div>
 ---
