@@ -1,5 +1,12 @@
 <img src="https://www.historyhit.com/app/uploads/2020/07/Augustus-painting-1.jpg" alt="romans" width="100%" height="300"/>
 
+
+### 🤝🏻 &nbsp;Connect with Me
+<div>
+  <a href="https://www.linkedin.com/in/marcioalbertol/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>   
+</div>
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -32,3 +39,4 @@
 ![MarcioLopes451's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcioLopes451&theme=tokyonight&hide_border=false)
 
 ![MarcioLopes451's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioLopes451&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
