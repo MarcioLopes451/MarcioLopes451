@@ -4,8 +4,6 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Frontend Development with the Learning People via Codecademy.\
 🌱 &nbsp;I'm on track for learning more about larger frameworks such as Angular & Vue.js .\
