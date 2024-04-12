@@ -13,7 +13,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Frontend Development with the Learning People via Codecademy.\
+🎓 &nbsp;I'm currently an Expert React & React Native Developer .\
 🌱 &nbsp;I'm on track for learning more about larger frameworks such as Angular & Vue.js .\
 ✉️ &nbsp;You can shoot me an email at marcio_451@icloud.com I'll try to respond as soon as I can.
 
